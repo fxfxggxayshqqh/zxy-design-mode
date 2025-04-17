@@ -13,8 +13,10 @@ public class TestMain {
 
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
-        OneDisplayObserver oneDisplayObserver = new OneDisplayObserver(weatherData);
-        TwoDisplayObserver twoDisplayObserver = new TwoDisplayObserver(weatherData);
+        // OneDisplayObserver oneDisplayObserver = 
+        new OneDisplayObserver(weatherData);
+        // TwoDisplayObserver twoDisplayObserver = 
+        new TwoDisplayObserver(weatherData);
 
         weatherData.setMeasurements(10, 20, 30);
     }
