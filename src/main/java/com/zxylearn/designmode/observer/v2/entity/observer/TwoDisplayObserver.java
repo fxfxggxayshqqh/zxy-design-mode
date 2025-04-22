@@ -1,10 +1,10 @@
-package com.zxylearn.observer.v2.entity.observer;
-
-import com.zxylearn.observer.v2.DisplayElement;
-import com.zxylearn.observer.v2.entity.subject.WeatherData;
+package com.zxylearn.designmode.observer.v2.entity.observer;
 
 import java.util.Observable;
 import java.util.Observer;
+
+import com.zxylearn.designmode.observer.v2.DisplayElement;
+import com.zxylearn.designmode.observer.v2.entity.subject.WeatherData;
 
 /**
  * @auther zhangxiaoyu

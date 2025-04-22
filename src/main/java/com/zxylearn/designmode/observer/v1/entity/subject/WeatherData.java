@@ -1,9 +1,9 @@
-package com.zxylearn.observer.v1.entity.subject;
-
-import com.zxylearn.observer.v1.Observer;
-import com.zxylearn.observer.v1.Subject;
+package com.zxylearn.designmode.observer.v1.entity.subject;
 
 import java.util.ArrayList;
+
+import com.zxylearn.designmode.observer.v1.Observer;
+import com.zxylearn.designmode.observer.v1.Subject;
 
 /**
  * @auther zhangxiaoyu

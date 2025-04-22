@@ -1,8 +1,8 @@
-package com.zxylearn.observer.v1.entity.observer;
+package com.zxylearn.designmode.observer.v1.entity.observer;
 
-import com.zxylearn.observer.v1.DisplayElement;
-import com.zxylearn.observer.v1.Observer;
-import com.zxylearn.observer.v1.Subject;
+import com.zxylearn.designmode.observer.v1.DisplayElement;
+import com.zxylearn.designmode.observer.v1.Observer;
+import com.zxylearn.designmode.observer.v1.Subject;
 
 /**
  * 一号展示版 - 观察者

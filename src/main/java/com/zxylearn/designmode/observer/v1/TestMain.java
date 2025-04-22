@@ -1,8 +1,8 @@
-package com.zxylearn.observer.v1;
+package com.zxylearn.designmode.observer.v1;
 
-import com.zxylearn.observer.v1.entity.observer.OneDisplayObserver;
-import com.zxylearn.observer.v1.entity.observer.TwoDisplayObserver;
-import com.zxylearn.observer.v1.entity.subject.WeatherData;
+import com.zxylearn.designmode.observer.v1.entity.observer.OneDisplayObserver;
+import com.zxylearn.designmode.observer.v1.entity.observer.TwoDisplayObserver;
+import com.zxylearn.designmode.observer.v1.entity.subject.WeatherData;
 
 /**
  * @auther zhangxiaoyu

@@ -1,4 +1,4 @@
-package com.zxylearn.observer.v2;
+package com.zxylearn.designmode.observer.v2;
 
 /**
  * @auther zhangxiaoyu

@@ -1,4 +1,4 @@
-package com.zxylearn.observer.v2.entity.subject;
+package com.zxylearn.designmode.observer.v2.entity.subject;
 
 import java.util.Observable;
 
